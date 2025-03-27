@@ -1,0 +1,11 @@
+pipeline {                 // This starts the pipeline block. It tells Jenkins that this is a declarative pipeline, which defines the steps for building your project.
+    agent any        // This specifies that the pipeline can run on any available   agent (Jenkins worker machine)
+
+    stages {       // The stages block contains all the stages in your pipeline
+        stage('Hello') {
+            steps {               // The steps block defines what actions Jenkins should perform in the current stage
+                echo 'Hello World'
+            }
+        }
+    }
+}
