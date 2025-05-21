@@ -1,12 +1,22 @@
 ## 💫About Me :
-👨‍💻 Undergraduate Student pursuing B.Tech in Computer Science (AI-ML)
-<br>
-🌍 **Open Source Enthusiast**, passionate about contributing and collaborating  
-🔗 Contributor at **CircuitVerse & WikiMedia Foundation** 
-<br>
-⚙️ Passionate about **DevOps & Automation**
-<br>
-🛠️ Constantly learning, exploring, and building solutions that make an impact  
+
+``` js
+const YourName = {
+  pronouns: "he" | "him",
+  education: Undergraduate Student pursuing B.Tech in Computer Science (AI-ML),
+  interests: [
+    Open Source Enthusiast - passionate about contributing and collaborating,
+    DevOps & Automation,
+    Constantly learning, exploring, and building impactful solutions
+  ],
+  contributions: ["CircuitVerse", "WikiMedia Foundation"],
+  code: [C++, Java, JavaScript,TypeScript],
+  tools: [React, Rails, Jenkins, MySQL, Terraform, Docker, Kubernetes]
+}
+
+```
+
+
 
 
 
