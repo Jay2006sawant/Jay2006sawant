@@ -1,7 +1,7 @@
 ## 💫About Me :
 
 ``` js
-const YourName = {
+const Jay = {
   pronouns: "he" | "him",
   education: Undergraduate Student pursuing B.Tech in Computer Science (AI-ML),
   interests: [
