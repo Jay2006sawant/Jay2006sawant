@@ -1,18 +1,40 @@
 ## 💫About Me :
 
-``` js
-const Jay = {
-  pronouns: "he" | "him",
-  education: Undergraduate Student pursuing B.Tech in Computer Science (AI-ML),
-  interests: [
-    Open Source Enthusiast - passionate about contributing and collaborating,
-    DevOps & Automation,
-    Constantly learning, exploring, and building impactful solutions
-  ],
-  contributions: ["CircuitVerse", "WikiMedia Foundation"],
-  code: [C++, Java, JavaScript,TypeScript],
-  tools: [React, Rails, Jenkins, MySQL, Terraform, Docker, Kubernetes]
+``` hcl
+resource "devops_profile" "jay" {
+  name        = "Jay Sawant"
+  pronouns    = ["he", "him"]
+  education   = "Undergraduate Student pursuing B.Tech in Computer Science (AI-ML)"
+
+  interests = [
+    "Open Source Enthusiast - passionate about contributing and collaborating",
+    "DevOps & Automation",
+    "Constantly learning, exploring, and building impactful solutions"
+  ]
+
+  contributions = [
+    "CircuitVerse",
+    "WikiMedia Foundation"
+  ]
+
+  code_languages = [
+    "C++",
+    "Java",
+    "JavaScript",
+    "TypeScript"
+  ]
+
+  tools = [
+    "React",
+    "Rails",
+    "Jenkins",
+    "MySQL",
+    "Terraform",
+    "Docker",
+    "Kubernetes"
+  ]
 }
+
 
 ```
 
