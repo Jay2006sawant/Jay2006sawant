@@ -1,7 +1,7 @@
 ## 💫About Me :
 
 ``` hcl
-resource "devops_profile" "jay" {
+resource "profile" "Jay" {
   name        = "Jay Sawant"
   pronouns    = ["he", "him"]
   education   = "Undergraduate Student pursuing B.Tech in Computer Science (AI-ML)"
