@@ -16,23 +16,6 @@ resource "profile" "Jay" {
     "CircuitVerse",
     "WikiMedia Foundation"
   ]
-
-  code_languages = [
-    "C++",
-    "Java",
-    "JavaScript",
-    "TypeScript"
-  ]
-
-  tools = [
-    "React",
-    "Rails",
-    "Jenkins",
-    "MySQL",
-    "Terraform",
-    "Docker",
-    "Kubernetes"
-  ]
 }
 
 
