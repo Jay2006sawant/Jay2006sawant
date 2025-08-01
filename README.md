@@ -43,7 +43,7 @@ resource "profile" "Jay" {
 
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1344762057160917154)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sawant-4b59aa324/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jay242902) [![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?logo=slack&logoColor=white)](https://circuitverse-team.slack.com/team/U084PBQF7TM)    [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:jaysawant544@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-sawant-4b59aa324/) [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:jaysawant544@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1344762057160917154) [![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?logo=slack&logoColor=white)](https://circuitverse-team.slack.com/team/U084PBQF7TM)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jay242902) 
 
 
 
