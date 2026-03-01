@@ -19,23 +19,30 @@
 
 ``` hcl
 resource "profile" "Jay" {
-  name        = "Jay Sawant"
-  pronouns    = ["he", "him"]
-  education   = "Undergraduate Student pursuing B.Tech in Computer Science (AI-ML)"
+  name      = "Jay Sawant"
+  pronouns  = ["he", "him"]
+  education = "B.Tech in Computer Science (AI-ML)"
 
-  interests = [
-    "Open Source Enthusiast - passionate about contributing and collaborating",
-    "DevOps & Automation",
-    "Constantly learning, exploring, and building impactful solutions"
+  current_focus = [
+    "Graph-based ML systems",
+    "Open Source Engineering",
+    "Scalable DevOps & Automation"
+  ]
+
+  achievements = [
+    "Level 4 Community Contributor @GitLab",
+    "1st Place – GitLab Hackathon 2026",
+    "Mentor @GSSoC'25"
   ]
 
   contributions = [
+    "GitLab",
     "CircuitVerse",
-    "WikiMedia Foundation"
+    "Wikimedia Foundation",
+    "the-bread-butter"
   ]
+
 }
-
-
 ```
 
 
